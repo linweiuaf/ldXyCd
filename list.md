@@ -44,3 +44,4 @@
 - [AI驱动3D生成，工业建模生产可用性瓶颈](https://github.com/linweiuaf/ldXyCd/commit/2954ad09484a6a351d271a5f783726a30ecd39c3)
 - [简易 Web 服务开源 Demo 完整源码包含接口编写完整示例](https://github.com/linweiuaf/ldXyCd/commit/51a3b3c07ab7dd19b165a31489aace30439b5d39)
 - [中医药推广普及，普通百姓中医药就医便利性](https://github.com/linweiuaf/ldXyCd/commit/410fa56d49aea47aff424ab61ec8d1249065ffd8)
+- [青年就业压力，是转型期必须面对的现实课题](https://github.com/linweiuaf/ldXyCd/commit/2590ec11106ce429c80035f6181fdfd7d1ab6809)
