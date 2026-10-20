@@ -104,3 +104,4 @@
 - [地缘冲突持续扰动大宗商品与外贸环境](https://github.com/linweiuaf/ldXyCd/commit/6232890a99de023051d6240fbcbb4e6682617558)
 - [sqlite数据库完整性检测，校验sqlite数据库文件损坏情况](https://github.com/linweiuaf/ldXyCd/commit/7cb3534ade87bdddba48630e2a6a0fc43d296a30)
 - [算力投资疯狂扩张，过剩风险已经浮出水面](https://github.com/linweiuaf/ldXyCd/commit/c1081fb1c71cdda8dbc84fd451d4622fdd9d7357)
+- [可定制消息队列工具源码库 全套源码附本地上手实战案例](https://github.com/linweiuaf/ldXyCd/commit/ef1c439574d7d2a3f48e2664389132485c59feae)
