@@ -168,3 +168,4 @@
 - [低碳积分落地居民低碳行为如何兑换收益](https://github.com/linweiuaf/ldXyCd/commit/fc4e0d0a355c361518a72f28e48c378f28cbc601)
 - [实体企业设备更新补贴加码制造业技改投资迎来增量](https://github.com/linweiuaf/ldXyCd/commit/ee2baaae8125ba4341e7ce41d8e30cda1e059f29)
 - [Agent输出格式容错，非标准JSON解析降级策略](https://github.com/linweiuaf/ldXyCd/commit/184058c630b9b350cd838659084c7418455a40e9)
+- [简繁文本转换源码 完整源码简体繁体互相转换](https://github.com/linweiuaf/ldXyCd/commit/db0e7fb19fcd8ee9def6a4f03355d6eedf801489)
