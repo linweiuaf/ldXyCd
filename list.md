@@ -68,3 +68,4 @@
 - [婚姻家庭心理咨询普及现实阻碍](https://github.com/linweiuaf/ldXyCd/commit/c73921df0d09a8f749a0a4db97962f7ca64957d2)
 - [绿色矿山建设，如何平衡生态保护与地方经济发展](https://github.com/linweiuaf/ldXyCd/commit/a37987b31fc3e82043c1d473da4e10cf55a4a964)
 - [BC电池技术崛起光伏电池新路线产业化发展前景](https://github.com/linweiuaf/ldXyCd/commit/0a8edfbebce5fdd76fcc921851855620256de18f)
+- [部分行业内卷，根源在于供给大于真实市场需求](https://github.com/linweiuaf/ldXyCd/commit/80f8ccaab0a2f7532e9864da9d045b797e159e49)
