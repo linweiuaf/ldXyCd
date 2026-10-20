@@ -124,3 +124,4 @@
 - [可复用技术开源仓库 全套源码附带环境搭建示例](https://github.com/linweiuaf/ldXyCd/commit/de6cfe3cabd7b038823d19a9ac02a128929143a7)
 - [高股息不是保险箱，大跌同样躲不开](https://github.com/linweiuaf/ldXyCd/commit/d9fe8696bd7ba3358582d151dfffcba7e86072a6)
 - [Markdown 技术文档适配百度搜索引擎写作指南](https://github.com/linweiuaf/ldXyCd/commit/12aaa15c6d2a451a7591a6ebb718124f18466244)
+- [开源工具手册升级迁移操作步骤完整教程](https://github.com/linweiuaf/ldXyCd/commit/d46194c24a4a5f1f177eb2b850fe0e6b8b8a93b6)
