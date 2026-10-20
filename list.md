@@ -52,3 +52,4 @@
 - [轻量实战开源项目资源库 完整实现包含二次开发演示](https://github.com/linweiuaf/ldXyCd/commit/0345a82b31799147eaaaee1e204f168368da6033)
 - [社会救助主动识别机制，困难家庭精准帮扶](https://github.com/linweiuaf/ldXyCd/commit/2f1f632e11c32b20109531e311fbfd6c69875552)
 - [大模型幻觉问题溯源，如何构建低幻觉业务系统](https://github.com/linweiuaf/ldXyCd/commit/54d45507ecd7786b7a7a29b251a2a304b53ae6e3)
+- [Gitee Pages 自定义域名备案相关注意点](https://github.com/linweiuaf/ldXyCd/commit/f8e5477718a653f0f6220af91956b34b377b1c7f)
