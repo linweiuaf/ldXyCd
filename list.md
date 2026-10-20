@@ -142,3 +142,4 @@
 - [开源项目测试样本Flaky，偶现失败难以复现](https://github.com/linweiuaf/ldXyCd/commit/b7b0d6fb4b6a35ef73ce621bb35c9aa5237c7ede)
 - [国债逆回购怎么操作震荡期短期闲钱理财方式](https://github.com/linweiuaf/ldXyCd/commit/aa65112105690799e84e1b26683e40c0e5591626)
 - [开源密码工具，加密算法实现是否经过审计](https://github.com/linweiuaf/ldXyCd/commit/76824940abbc4a5c499c0f2be9cc80e0b1d81011)
+- [生猪产能调减逐步落地猪价上行周期什么时候真正开启](https://github.com/linweiuaf/ldXyCd/commit/654a074491000daca8a4ebeaa1defae68baacd1c)
