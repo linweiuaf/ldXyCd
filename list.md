@@ -58,3 +58,4 @@
 - [多地落实育儿补贴，哪些家庭可以申领现金补助](https://github.com/linweiuaf/ldXyCd/commit/02df8a93057fabb449ea6d5d0dd6b09ad6faf6b0)
 - [批量域名 DNS 解析开源源码 完整源码批量获取域名对应 IP](https://github.com/linweiuaf/ldXyCd/commit/f1d8ca2a64a809c421aa887fb45145e4bc4ab1f0)
 - [工资不涨物价稳，普通家庭如何守住每月现金流](https://github.com/linweiuaf/ldXyCd/commit/6996f27e1807b1c28a8c4703fc9cf7dd724be889)
+- [本地二进制文件字节替换工具，对二进制文件批量字节替换](https://github.com/linweiuaf/ldXyCd/commit/82881198c966fc1033f55f196a189fa966df8ddb)
