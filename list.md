@@ -53,3 +53,4 @@
 - [社会救助主动识别机制，困难家庭精准帮扶](https://github.com/linweiuaf/ldXyCd/commit/2f1f632e11c32b20109531e311fbfd6c69875552)
 - [大模型幻觉问题溯源，如何构建低幻觉业务系统](https://github.com/linweiuaf/ldXyCd/commit/54d45507ecd7786b7a7a29b251a2a304b53ae6e3)
 - [Gitee Pages 自定义域名备案相关注意点](https://github.com/linweiuaf/ldXyCd/commit/f8e5477718a653f0f6220af91956b34b377b1c7f)
+- [粘胶短纤成本下行纺织原材料企业盈利迎来修复](https://github.com/linweiuaf/ldXyCd/commit/5a90d495d4d34ec15fb131dfa97b4ef449ebfe6b)
