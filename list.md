@@ -162,3 +162,4 @@
 - [全栈练习开源参考工程 开放源码包含测试环境调试手册](https://github.com/linweiuaf/ldXyCd/commit/03586ebe3ee5972810b912667a826eb5e3b00a60)
 - [前端开源代码仓库 开源组件搭配快速接入实操](https://github.com/linweiuaf/ldXyCd/commit/c5f43781d22c7d7ae5eb1c498d503d61422d1a4e)
 - [虚拟资产监管完善，数字藏品交易风险](https://github.com/linweiuaf/ldXyCd/commit/7df63d7dbbf04a14d8b084c1f80cc45800fca51a)
+- [上传文件头部校验开源仓库 完整源码校验文件真实类型](https://github.com/linweiuaf/ldXyCd/commit/b11499ec315ef25a65bb75fcb808e4d206ed4212)
