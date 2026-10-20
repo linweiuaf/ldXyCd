@@ -18,3 +18,4 @@
 - [程序员简易接口开源仓库 开放源码包含接口演示样例项目](https://github.com/linweiuaf/ldXyCd/commit/06340de17176511f4a2379d6b289561e0c872af2)
 - [markdown脚注批量处理工具，批量转换迁移文档脚注](https://github.com/linweiuaf/ldXyCd/commit/9146ffc9d0102d9b96559a70f13b617fa91dc3f5)
 - [本地http请求对比工具，输入两组url对比响应头响应体差异](https://github.com/linweiuaf/ldXyCd/commit/c542ae788316649d12e0ca841a53ef1bd3483529)
+- [开源教程文档给出失败现象以及排查思路](https://github.com/linweiuaf/ldXyCd/commit/f5bc41ddae899ac3e89e2fa251e277c6ed27c350)
