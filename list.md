@@ -24,3 +24,4 @@
 - [世界模型技术进展，AI仿真物理环境能力边界](https://github.com/linweiuaf/ldXyCd/commit/484dc67858447ef556fb619de495c5bca44aef84)
 - [文本行内容前缀匹配过滤，按前缀保留或过滤文本行](https://github.com/linweiuaf/ldXyCd/commit/6b9005572a19d11a652e032fe72f1e1ba6d56343)
 - [GitHub 接口示例开源源码库 项目案例配套多环境适配文档](https://github.com/linweiuaf/ldXyCd/commit/149734ad48ed74f2925e69d93bcc1f883d044faa)
+- [不动产跨省查询个人房产信息安全平衡](https://github.com/linweiuaf/ldXyCd/commit/c3daf684e2c4f1ef1745d5e1b66aa7cb09ce2416)
