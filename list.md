@@ -43,3 +43,4 @@
 - [面向开发工程师开源实践资源 完整实现附带踩坑经验记录](https://github.com/linweiuaf/ldXyCd/commit/04dc4a46e6957e40c4058db2c02ccb473abb7b8a)
 - [AI驱动3D生成，工业建模生产可用性瓶颈](https://github.com/linweiuaf/ldXyCd/commit/2954ad09484a6a351d271a5f783726a30ecd39c3)
 - [简易 Web 服务开源 Demo 完整源码包含接口编写完整示例](https://github.com/linweiuaf/ldXyCd/commit/51a3b3c07ab7dd19b165a31489aace30439b5d39)
+- [中医药推广普及，普通百姓中医药就医便利性](https://github.com/linweiuaf/ldXyCd/commit/410fa56d49aea47aff424ab61ec8d1249065ffd8)
