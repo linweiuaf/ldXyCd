@@ -71,3 +71,4 @@
 - [部分行业内卷，根源在于供给大于真实市场需求](https://github.com/linweiuaf/ldXyCd/commit/80f8ccaab0a2f7532e9864da9d045b797e159e49)
 - [弹性工作制普及，打工人工作生活边界模糊](https://github.com/linweiuaf/ldXyCd/commit/1bda9c9a39cbdc0f7458a984cb39ecc667c44475)
 - [灵活就业群体收入情况变化，新型就业模式利弊引发热议](https://github.com/linweiuaf/ldXyCd/commit/0cd32f92389dfbb7c7fecb04aa1c3b2724102b87)
+- [向量数据库冷热分层，高频向量内存驻留调优](https://github.com/linweiuaf/ldXyCd/commit/fccf5ce4cdfa5c4ff3f3547cfb901f1b6d9a077c)
