@@ -7,3 +7,4 @@
 - [GitHub仓库批量生成Release变更日志](https://github.com/linweiuaf/ldXyCd/commit/41e63a7818fd37b5849ace5bc5015cb519f9b584)
 - [乡村青年婚恋困境，人口外流带来婚嫁难题](https://github.com/linweiuaf/ldXyCd/commit/1a217b3e9ef4daf58921d5984515d20a40469451)
 - [镜像站点百度有抓取快照但是不参与排名对策](https://github.com/linweiuaf/ldXyCd/commit/2dc0872f88291426d12c0520a733406e268d8acc)
+- [AIOps根因定位，AI推理告警误报的抑制手段](https://github.com/linweiuaf/ldXyCd/commit/1a03036bacd9dd54415ca3296d534faa7fbae490)
