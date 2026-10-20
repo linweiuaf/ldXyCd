@@ -176,3 +176,4 @@
 - [DID去中心化凭证，数字人与智能体身份体系](https://github.com/linweiuaf/ldXyCd/commit/879aa902496ec3f520c4b35f74185fe100da2df4)
 - [程序员简易表格开源仓库 开放源码包含功能演示样例项目](https://github.com/linweiuaf/ldXyCd/commit/64694f5877b8bdce189c8ffa2027fd244199b6bc)
 - [robots.txt生成校验工具，生成robots校验规则有效性](https://github.com/linweiuaf/ldXyCd/commit/63a59a3706682a834cef06fd278d2fece74a05f5)
+- [AI降本浪潮袭来，不少传统岗位面临压缩](https://github.com/linweiuaf/ldXyCd/commit/afaa1d00d32fb03751ea48085ce5990bdd0c715a)
