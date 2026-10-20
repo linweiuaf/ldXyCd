@@ -74,3 +74,4 @@
 - [向量数据库冷热分层，高频向量内存驻留调优](https://github.com/linweiuaf/ldXyCd/commit/fccf5ce4cdfa5c4ff3f3547cfb901f1b6d9a077c)
 - [开发者实用开源源码资源 全套源码附带功能拓展示例](https://github.com/linweiuaf/ldXyCd/commit/f95ae5d89fc769953040d5e353de97d82f360d1e)
 - [视频RAG关键帧采样策略，漏检关键片段问题](https://github.com/linweiuaf/ldXyCd/commit/f135be7ed2fdb99d85d6e91f4778ca279064b163)
+- [内网共享目录权限审计脚本，定位权限风险点](https://github.com/linweiuaf/ldXyCd/commit/b2ce3cf02fc082a5a90d192e56507f4fa9a95c5f)
