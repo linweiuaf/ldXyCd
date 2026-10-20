@@ -156,3 +156,4 @@
 - [轻量无框架开源示例 完整源码适合新手学习二次开发](https://github.com/linweiuaf/ldXyCd/commit/ee6eddc258f234a004198a8e2fbaf189fb71d905)
 - [解决镜像站点百度收录数量忽多忽少问题](https://github.com/linweiuaf/ldXyCd/commit/396c56fc5e7ed2f22304f81538ccc8296edd6244)
 - [BGP路由劫持，公网路由安全风险与检测](https://github.com/linweiuaf/ldXyCd/commit/a1ece870c6a370b69f8b5f8f8abc29a9fa359b2a)
+- [postgresql表填充因子批量修改，批量调整数据表fillfactor参数](https://github.com/linweiuaf/ldXyCd/commit/276ba3b7d91d1e316f3dc1ed4c07897de9e1ec07)
