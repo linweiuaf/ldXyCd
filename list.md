@@ -9,3 +9,4 @@
 - [镜像站点百度有抓取快照但是不参与排名对策](https://github.com/linweiuaf/ldXyCd/commit/2dc0872f88291426d12c0520a733406e268d8acc)
 - [AIOps根因定位，AI推理告警误报的抑制手段](https://github.com/linweiuaf/ldXyCd/commit/1a03036bacd9dd54415ca3296d534faa7fbae490)
 - [字符串模板渲染开源仓库 完整源码变量替换文本模板](https://github.com/linweiuaf/ldXyCd/commit/89b00b317742f2e82595e3f10176b57af68e020c)
+- [危废行业竞争出清落后产能逐步退出市场竞争格局](https://github.com/linweiuaf/ldXyCd/commit/fb580ff01231e488bdf15d7db42553dc84559755)
