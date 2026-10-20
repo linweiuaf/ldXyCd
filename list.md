@@ -140,3 +140,4 @@
 - [开发者实战开源仓库 源码资源附带集成配置手册](https://github.com/linweiuaf/ldXyCd/commit/2cf4b2101f300ffc436ceca485240495e7297c3c)
 - [图片二维码解析 Demo 完整源码识别解析图片二维码内容](https://github.com/linweiuaf/ldXyCd/commit/1c8ba04ea4ff2b06b14741fe79fdfe7bfa4491ed)
 - [开源项目测试样本Flaky，偶现失败难以复现](https://github.com/linweiuaf/ldXyCd/commit/b7b0d6fb4b6a35ef73ce621bb35c9aa5237c7ede)
+- [国债逆回购怎么操作震荡期短期闲钱理财方式](https://github.com/linweiuaf/ldXyCd/commit/aa65112105690799e84e1b26683e40c0e5591626)
