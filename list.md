@@ -144,3 +144,4 @@
 - [开源密码工具，加密算法实现是否经过审计](https://github.com/linweiuaf/ldXyCd/commit/76824940abbc4a5c499c0f2be9cc80e0b1d81011)
 - [生猪产能调减逐步落地猪价上行周期什么时候真正开启](https://github.com/linweiuaf/ldXyCd/commit/654a074491000daca8a4ebeaa1defae68baacd1c)
 - [预制菜行业扩张，食品安全和行业标准化建设滞后](https://github.com/linweiuaf/ldXyCd/commit/ee124d355210830f013f825f7815522dd7e71eea)
+- [户外徒步登山事故高发风险分析](https://github.com/linweiuaf/ldXyCd/commit/085430557511af3c4a6d978b79fa04614723a6b7)
