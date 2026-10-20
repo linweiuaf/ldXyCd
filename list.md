@@ -128,3 +128,4 @@
 - [本地大模型部署，硬件门槛、量化、推理框架选型](https://github.com/linweiuaf/ldXyCd/commit/af076940a124ea46e64705a501e8d0202f11359b)
 - [AGPL云服务使用边界，对内使用是否触发协议](https://github.com/linweiuaf/ldXyCd/commit/a9000b3a4b8f385e125666c9a739b52e1f3aad22)
 - [股市涨了指数，大量个股却持续下跌](https://github.com/linweiuaf/ldXyCd/commit/18fb68f78006a1f0444fb0fdc37b48d9443a2fe7)
+- [既有住宅加装电梯财政退坡，运维资金难题](https://github.com/linweiuaf/ldXyCd/commit/8912155594b2f49f5af9360860168fe3c4220ef2)
