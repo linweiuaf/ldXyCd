@@ -63,3 +63,4 @@
 - [排查百度蜘蛛访问镜像站点返回错误状态码](https://github.com/linweiuaf/ldXyCd/commit/6d48d82472172f71f6f3bdc67d597b3ff070d643)
 - [代码智能体接管 monorepo，大规模代码变更风险](https://github.com/linweiuaf/ldXyCd/commit/f4fddc4876f6d0a94af0dee23dba3a80bd45c8ae)
 - [个人访问令牌泄露，token泄露应急处置流程](https://github.com/linweiuaf/ldXyCd/commit/e6031162ad0f06e4e2f38119910888fbf9d90f18)
+- [中文文本多余换行合并，批量合并段落内错误换行](https://github.com/linweiuaf/ldXyCd/commit/e4b5a6cb6f174bc4346df1df5384ab95c51a6862)
