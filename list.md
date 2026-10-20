@@ -89,3 +89,4 @@
 - [中等收入群体扩容，普通家庭增收路径探讨](https://github.com/linweiuaf/ldXyCd/commit/c257c0e5a461d99ac9b6f28a16a04b5aaf22cf94)
 - [程序员开源参考代码库 源码资源配套集成接入排错手册](https://github.com/linweiuaf/ldXyCd/commit/905b6a3475fb815b833365c9755a8b5e0612a007)
 - [程序员可拓展开源仓库 全套源码包含问题处理完整文档](https://github.com/linweiuaf/ldXyCd/commit/1cfe777b062e3ccb75ba8edfdcc1ced4b2ef2f1e)
+- [AI辅助代码审计，识别AI生成代码隐藏安全漏洞](https://github.com/linweiuaf/ldXyCd/commit/b819f5a4900f51c6697fd40b7f47c47b7a76528e)
