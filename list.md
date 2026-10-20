@@ -15,3 +15,4 @@
 - [高质量 GitHub 消息队列示例开源项目 可复用 Demo 源码与配置实操](https://github.com/linweiuaf/ldXyCd/commit/f2464572a5517f9d2ae46c9bb513cd714ad6da10)
 - [简易 token 过期刷新开源源码 完整源码实现令牌刷新逻辑](https://github.com/linweiuaf/ldXyCd/commit/963faf3d3f872a527a17fd01414e193199e89884)
 - [静态文档页面合理字数区间利于百度收录](https://github.com/linweiuaf/ldXyCd/commit/3d3cec7adab375e94b210f9d6ac1886b0e189cd4)
+- [程序员简易接口开源仓库 开放源码包含接口演示样例项目](https://github.com/linweiuaf/ldXyCd/commit/06340de17176511f4a2379d6b289561e0c872af2)
