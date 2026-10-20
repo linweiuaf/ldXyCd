@@ -55,3 +55,4 @@
 - [Gitee Pages 自定义域名备案相关注意点](https://github.com/linweiuaf/ldXyCd/commit/f8e5477718a653f0f6220af91956b34b377b1c7f)
 - [粘胶短纤成本下行纺织原材料企业盈利迎来修复](https://github.com/linweiuaf/ldXyCd/commit/5a90d495d4d34ec15fb131dfa97b4ef449ebfe6b)
 - [自托管Runner多版本混杂，不同Runner环境产出结果不一致](https://github.com/linweiuaf/ldXyCd/commit/7be513dcb828ec91c33e53328d29f8c5b143691d)
+- [多地落实育儿补贴，哪些家庭可以申领现金补助](https://github.com/linweiuaf/ldXyCd/commit/02df8a93057fabb449ea6d5d0dd6b09ad6faf6b0)
