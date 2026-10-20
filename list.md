@@ -133,3 +133,4 @@
 - [都市圈跨城通勤常态化，城际公共交通优化](https://github.com/linweiuaf/ldXyCd/commit/65ae608d857d05193c2cd38abacc9213eaab0606)
 - [线程活锁模拟开源工程 完整源码活锁故障场景复现](https://github.com/linweiuaf/ldXyCd/commit/2a9e4eed087282a3da0c1e2577fa686e4f85d1be)
 - [轻量快速搭建业务开源项目源码 源码开放包含本地部署步骤](https://github.com/linweiuaf/ldXyCd/commit/21f4ee6adb146fd02255ccae4878bbbdc56ad170)
+- [Copilot训练使用开源代码，许可证纠纷根源](https://github.com/linweiuaf/ldXyCd/commit/11b9596eb2fe52c0ba8dfdd805612f5f168d3c58)
