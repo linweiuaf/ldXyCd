@@ -112,3 +112,4 @@
 - [家庭照护者喘息服务推广现实困境](https://github.com/linweiuaf/ldXyCd/commit/7e19eb6bcaa17dc67d2cf19b4ddd5a349f592a76)
 - [嘴上说着降低收益预期，心里还在幻想赚快钱](https://github.com/linweiuaf/ldXyCd/commit/9a97172e7e4c5376ec4f309c6f9010960a5636c9)
 - [git远程分支清理工具，清理本地已经删除的远程分支引用](https://github.com/linweiuaf/ldXyCd/commit/0819fdccd6faa4a21a4c5b3eaed655d38736752a)
+- [ass字幕样式提取复用工具，提取ass字幕样式应用到其他字幕](https://github.com/linweiuaf/ldXyCd/commit/a70347f0892834379bd4fb3053cebb8efa22421d)
