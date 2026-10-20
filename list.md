@@ -66,3 +66,4 @@
 - [中文文本多余换行合并，批量合并段落内错误换行](https://github.com/linweiuaf/ldXyCd/commit/e4b5a6cb6f174bc4346df1df5384ab95c51a6862)
 - [高质量 GitHub 日志示例开源项目 可复用 Demo 源码与配置实操](https://github.com/linweiuaf/ldXyCd/commit/ff8e05faf547a5abfec7af99ea3518c6d10dd5c6)
 - [婚姻家庭心理咨询普及现实阻碍](https://github.com/linweiuaf/ldXyCd/commit/c73921df0d09a8f749a0a4db97962f7ca64957d2)
+- [绿色矿山建设，如何平衡生态保护与地方经济发展](https://github.com/linweiuaf/ldXyCd/commit/a37987b31fc3e82043c1d473da4e10cf55a4a964)
