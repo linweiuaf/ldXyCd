@@ -39,3 +39,4 @@
 - [数据集去重清洗开源仓库 完整源码附带真实测试数据集](https://github.com/linweiuaf/ldXyCd/commit/c0033c39c74bd5c0ea92b933108f7d26eee7fd45)
 - [农业保险理赔难农户维权现实难点](https://github.com/linweiuaf/ldXyCd/commit/441220f2134e5bc2e0923c422a6205b2adfb1043)
 - [开发效率开源源码仓库 拿来即用源码与真实业务场景样例](https://github.com/linweiuaf/ldXyCd/commit/7591190d1b46048cf7548306f345940e543e0c6f)
+- [数字孪生轻量渲染，浏览器端大规模场景加载](https://github.com/linweiuaf/ldXyCd/commit/fa2d20bbaab174d8eb08913ce65d960c8fbce2ca)
