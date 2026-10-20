@@ -189,3 +189,4 @@
 - [音频频谱图生成网页，上传音频生成交互式频谱页面](https://github.com/linweiuaf/ldXyCd/commit/2a64d0b272513a7425949a39d5d7d1530a6e0270)
 - [副业暴富案例刷屏，赚钱的大多是卖课一方](https://github.com/linweiuaf/ldXyCd/commit/9a5a3ca3ac008142083fda9c19685484e6f34ed8)
 - [JSON 格式目录树输出开源仓库 完整源码生成 json 目录结构](https://github.com/linweiuaf/ldXyCd/commit/4a02addbbb83cc472ed681541c2f7553313dd47e)
+- [rtsp流检测可用性脚本，批量检测rtsp地址是否可正常打开](https://github.com/linweiuaf/ldXyCd/commit/fd4d583bc9c7daef514c10842dece95a9df40ce8)
