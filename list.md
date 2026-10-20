@@ -80,3 +80,4 @@
 - [多条件高级文件筛选源码 完整源码多规则检索文件](https://github.com/linweiuaf/ldXyCd/commit/93c20d14675ee4e4f7c62b3cefe171dca607ef5c)
 - [IT‑OT深度融合，工厂系统打通AI数据流转壁垒](https://github.com/linweiuaf/ldXyCd/commit/b6e0c08e81d8044d7b47e40272a0d854323366f9)
 - [本地消息表开源仓库 完整源码模拟分布式事务本地消息表](https://github.com/linweiuaf/ldXyCd/commit/e0ff881d090bc20d92b67240d41c7beb63f4f3c2)
+- [eBPF开源项目热度上涨，内核版本兼容性大坑](https://github.com/linweiuaf/ldXyCd/commit/baa7405a34b07f95a64eecefd179302d3339c6d4)
