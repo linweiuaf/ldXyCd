@@ -76,3 +76,4 @@
 - [视频RAG关键帧采样策略，漏检关键片段问题](https://github.com/linweiuaf/ldXyCd/commit/f135be7ed2fdb99d85d6e91f4778ca279064b163)
 - [内网共享目录权限审计脚本，定位权限风险点](https://github.com/linweiuaf/ldXyCd/commit/b2ce3cf02fc082a5a90d192e56507f4fa9a95c5f)
 - [县域工业发展，如何破解人才留不住的现实困境](https://github.com/linweiuaf/ldXyCd/commit/cdeb4c672c0d8ab37c1bca32fe1612a293b9a733)
+- [websocket 消息队列缓冲开源仓库 完整源码消息发送缓冲队列](https://github.com/linweiuaf/ldXyCd/commit/3b718c99f141b2f0ffbba290bea082fb22bf8ecb)
