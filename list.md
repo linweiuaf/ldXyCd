@@ -40,3 +40,4 @@
 - [农业保险理赔难农户维权现实难点](https://github.com/linweiuaf/ldXyCd/commit/441220f2134e5bc2e0923c422a6205b2adfb1043)
 - [开发效率开源源码仓库 拿来即用源码与真实业务场景样例](https://github.com/linweiuaf/ldXyCd/commit/7591190d1b46048cf7548306f345940e543e0c6f)
 - [数字孪生轻量渲染，浏览器端大规模场景加载](https://github.com/linweiuaf/ldXyCd/commit/fa2d20bbaab174d8eb08913ce65d960c8fbce2ca)
+- [面向开发工程师开源实践资源 完整实现附带踩坑经验记录](https://github.com/linweiuaf/ldXyCd/commit/04dc4a46e6957e40c4058db2c02ccb473abb7b8a)
