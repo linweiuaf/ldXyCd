@@ -164,3 +164,4 @@
 - [虚拟资产监管完善，数字藏品交易风险](https://github.com/linweiuaf/ldXyCd/commit/7df63d7dbbf04a14d8b084c1f80cc45800fca51a)
 - [上传文件头部校验开源仓库 完整源码校验文件真实类型](https://github.com/linweiuaf/ldXyCd/commit/b11499ec315ef25a65bb75fcb808e4d206ed4212)
 - [学生劳动教育落地，劳动实践课程现实困境](https://github.com/linweiuaf/ldXyCd/commit/884cef1f23dccc2c26d2fdc25eccf83429d9fee1)
+- [农房民宿规范化发展，乡村经营风险管控](https://github.com/linweiuaf/ldXyCd/commit/007caac175dc717684a95e5e389958ec5a2950e4)
