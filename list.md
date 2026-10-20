@@ -49,3 +49,4 @@
 - [复杂规则随机密码生成 Demo 完整源码大小写符号数字组合生成](https://github.com/linweiuaf/ldXyCd/commit/3dc9424f84792f51299c99cdc339fdb957a88f64)
 - [居民收入增长，要跟上经济总量增长步伐](https://github.com/linweiuaf/ldXyCd/commit/8972ab70a85be5a2b3a1c2e2631bd2f316a7f411)
 - [开源知识库文档分页逻辑设计适配爬虫遍历](https://github.com/linweiuaf/ldXyCd/commit/d499d43ba6e3c6a414701af2e425eec00665776b)
+- [轻量实战开源项目资源库 完整实现包含二次开发演示](https://github.com/linweiuaf/ldXyCd/commit/0345a82b31799147eaaaee1e204f168368da6033)
