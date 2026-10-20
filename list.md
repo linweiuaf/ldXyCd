@@ -178,3 +178,4 @@
 - [robots.txt生成校验工具，生成robots校验规则有效性](https://github.com/linweiuaf/ldXyCd/commit/63a59a3706682a834cef06fd278d2fece74a05f5)
 - [AI降本浪潮袭来，不少传统岗位面临压缩](https://github.com/linweiuaf/ldXyCd/commit/afaa1d00d32fb03751ea48085ce5990bdd0c715a)
 - [模型热插拔无缝切换，业务无感知版本升级](https://github.com/linweiuaf/ldXyCd/commit/ea9babfd6be7fb18564ee2a1c7dc6622bf6ac665)
+- [开源实战组件资源仓库 源码开放包含环境初始化教程](https://github.com/linweiuaf/ldXyCd/commit/a08d6b7d156f54059544cbd0ece63bb5821c701d)
