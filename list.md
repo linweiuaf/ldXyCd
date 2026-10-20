@@ -143,3 +143,4 @@
 - [国债逆回购怎么操作震荡期短期闲钱理财方式](https://github.com/linweiuaf/ldXyCd/commit/aa65112105690799e84e1b26683e40c0e5591626)
 - [开源密码工具，加密算法实现是否经过审计](https://github.com/linweiuaf/ldXyCd/commit/76824940abbc4a5c499c0f2be9cc80e0b1d81011)
 - [生猪产能调减逐步落地猪价上行周期什么时候真正开启](https://github.com/linweiuaf/ldXyCd/commit/654a074491000daca8a4ebeaa1defae68baacd1c)
+- [预制菜行业扩张，食品安全和行业标准化建设滞后](https://github.com/linweiuaf/ldXyCd/commit/ee124d355210830f013f825f7815522dd7e71eea)
