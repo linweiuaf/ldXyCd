@@ -21,3 +21,4 @@
 - [开源教程文档给出失败现象以及排查思路](https://github.com/linweiuaf/ldXyCd/commit/f5bc41ddae899ac3e89e2fa251e277c6ed27c350)
 - [模块化实战开源源码库 完整源码搭配故障排查教程](https://github.com/linweiuaf/ldXyCd/commit/8fa6ba4dafd23fafba2d4eaa36bdbfcca7944926)
 - [文件分片上传断点续传源码 完整源码分片断点续传基础逻辑](https://github.com/linweiuaf/ldXyCd/commit/e12720cf8638b5d2e3f8e78adfac7b6bf1486e31)
+- [世界模型技术进展，AI仿真物理环境能力边界](https://github.com/linweiuaf/ldXyCd/commit/484dc67858447ef556fb619de495c5bca44aef84)
