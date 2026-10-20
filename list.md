@@ -31,3 +31,4 @@
 - [地震AI预警模型，小样本灾害数据训练局限性](https://github.com/linweiuaf/ldXyCd/commit/12490a4d51023784e341a55dda2e0a9fb6f3af66)
 - [地方化债落地，普通人的感受不会立竿见影](https://github.com/linweiuaf/ldXyCd/commit/c35942210adce1ce31275dad88a6e31be9067ff8)
 - [极端高温常态化，城市公共防暑服务升级](https://github.com/linweiuaf/ldXyCd/commit/523974c2d0e13ebadbf0d456ab2255a61223f0d7)
+- [开源AI商业合规，SaaS调用开源模型授权争议](https://github.com/linweiuaf/ldXyCd/commit/e02cb736db3eeea3a3f190b53e9792c28cd222a9)
