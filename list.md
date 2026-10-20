@@ -78,3 +78,4 @@
 - [县域工业发展，如何破解人才留不住的现实困境](https://github.com/linweiuaf/ldXyCd/commit/cdeb4c672c0d8ab37c1bca32fe1612a293b9a733)
 - [websocket 消息队列缓冲开源仓库 完整源码消息发送缓冲队列](https://github.com/linweiuaf/ldXyCd/commit/3b718c99f141b2f0ffbba290bea082fb22bf8ecb)
 - [多条件高级文件筛选源码 完整源码多规则检索文件](https://github.com/linweiuaf/ldXyCd/commit/93c20d14675ee4e4f7c62b3cefe171dca607ef5c)
+- [IT‑OT深度融合，工厂系统打通AI数据流转壁垒](https://github.com/linweiuaf/ldXyCd/commit/b6e0c08e81d8044d7b47e40272a0d854323366f9)
