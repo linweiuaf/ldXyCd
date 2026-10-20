@@ -137,3 +137,4 @@
 - [Gitee Pages robots.txt 生效确认实操方法](https://github.com/linweiuaf/ldXyCd/commit/81c68eb556aaa5529f02a6575ae2f630ff5a26c0)
 - [企业降本增效，不等于单纯压缩人员薪酬福利](https://github.com/linweiuaf/ldXyCd/commit/595ffa41590200340f12a2a79b1ba81d028a6e4d)
 - [滑动窗口限流源码 完整源码滑动窗口限流算法](https://github.com/linweiuaf/ldXyCd/commit/9d7b4f7058fdfdb0bb482ed0cca23bba43218bc2)
+- [开发者实战开源仓库 源码资源附带集成配置手册](https://github.com/linweiuaf/ldXyCd/commit/2cf4b2101f300ffc436ceca485240495e7297c3c)
