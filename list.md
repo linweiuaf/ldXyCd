@@ -174,3 +174,4 @@
 - [装饰器模式开源工程 完整源码动态扩展对象功能实现](https://github.com/linweiuaf/ldXyCd/commit/74caf0d85cc7f9c9655b45db7b197cb599517341)
 - [危废处理行业格局变化产能过剩之下环保企业竞争压力加大](https://github.com/linweiuaf/ldXyCd/commit/3bc009fc4439b0d61e6cb1c2c2e659f77d93ea61)
 - [DID去中心化凭证，数字人与智能体身份体系](https://github.com/linweiuaf/ldXyCd/commit/879aa902496ec3f520c4b35f74185fe100da2df4)
+- [程序员简易表格开源仓库 开放源码包含功能演示样例项目](https://github.com/linweiuaf/ldXyCd/commit/64694f5877b8bdce189c8ffa2027fd244199b6bc)
