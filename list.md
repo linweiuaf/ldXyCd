@@ -117,3 +117,4 @@
 - [GitHub 优质开源 Demo 项目 可直接运行源码及实操演示样例](https://github.com/linweiuaf/ldXyCd/commit/209052629af3774cd41fa79f9310a51d9f91e37a)
 - [校外培训预收费监管，机构跑路怎么追回学费](https://github.com/linweiuaf/ldXyCd/commit/372ba5dffaa03818cd64c481cdfdd89c24db84a3)
 - [灵活就业群体扩大上亿打工人社保保障现状解析](https://github.com/linweiuaf/ldXyCd/commit/c398d53edc5b7a6ebfeefaca5b91704c4aee887d)
+- [开发者开源代码资源合集 全套源码配套从零部署样例](https://github.com/linweiuaf/ldXyCd/commit/9eed131b36697b7c8341dfc81a80fb54b197ceca)
