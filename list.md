@@ -181,3 +181,4 @@
 - [开源实战组件资源仓库 源码开放包含环境初始化教程](https://github.com/linweiuaf/ldXyCd/commit/a08d6b7d156f54059544cbd0ece63bb5821c701d)
 - [总想理财一夜暴富，亏损根源就是急于求成](https://github.com/linweiuaf/ldXyCd/commit/baa9af5e7da100f880a32ff9ae4b9cf6fbc1bf0d)
 - [生育成本社会化分担，企业生育补贴落实](https://github.com/linweiuaf/ldXyCd/commit/1d3c34e181144c5e260e094067a6f139c9b31461)
+- [储蓄国债持续受热捧稳健投资者配置国债热情不减](https://github.com/linweiuaf/ldXyCd/commit/7da287059dad96571464aa8e94014e59899b6481)
