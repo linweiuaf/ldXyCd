@@ -154,3 +154,4 @@
 - [线程饥饿模拟开源仓库 完整源码复现线程饥饿问题](https://github.com/linweiuaf/ldXyCd/commit/c35217c6d3dda31fc27bf267c4ba10dfcec8c3b1)
 - [本地浏览器hex十六进制查看器，前端读取本地二进制文件查看十六进制](https://github.com/linweiuaf/ldXyCd/commit/aa221100760371a1c3b1e0880bd82c0663bdbfbf)
 - [轻量无框架开源示例 完整源码适合新手学习二次开发](https://github.com/linweiuaf/ldXyCd/commit/ee6eddc258f234a004198a8e2fbaf189fb71d905)
+- [解决镜像站点百度收录数量忽多忽少问题](https://github.com/linweiuaf/ldXyCd/commit/396c56fc5e7ed2f22304f81538ccc8296edd6244)
