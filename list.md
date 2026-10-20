@@ -96,3 +96,4 @@
 - [批量数据校验脚本开源项目 完整源码实现文件数据批量校验](https://github.com/linweiuaf/ldXyCd/commit/402bb6a5fbcf58d028c87022ea721a2b5f1185f3)
 - [百度站长平台查看 GitHub 镜像站抓取状态](https://github.com/linweiuaf/ldXyCd/commit/653c5e434de8f9cb7e70729c2f85714c375b00dc)
 - [参数全局校验开源工程 完整源码统一做入参校验拦截](https://github.com/linweiuaf/ldXyCd/commit/1259667bd99469281644c0a11f7be05cc53aff13)
+- [镜像站点百度抓取返回 406 状态码排查处理](https://github.com/linweiuaf/ldXyCd/commit/2ad8a747b56b8feef3bc6c9a4aa59a57c56b94e4)
