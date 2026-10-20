@@ -131,3 +131,4 @@
 - [既有住宅加装电梯财政退坡，运维资金难题](https://github.com/linweiuaf/ldXyCd/commit/8912155594b2f49f5af9360860168fe3c4220ef2)
 - [Agent细粒度文件沙箱，只读读写权限动态切换](https://github.com/linweiuaf/ldXyCd/commit/35e8d5908efdf6ae0a57085e1c74efaef4392fcd)
 - [都市圈跨城通勤常态化，城际公共交通优化](https://github.com/linweiuaf/ldXyCd/commit/65ae608d857d05193c2cd38abacc9213eaab0606)
+- [线程活锁模拟开源工程 完整源码活锁故障场景复现](https://github.com/linweiuaf/ldXyCd/commit/2a9e4eed087282a3da0c1e2577fa686e4f85d1be)
