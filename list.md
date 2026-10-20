@@ -138,3 +138,4 @@
 - [企业降本增效，不等于单纯压缩人员薪酬福利](https://github.com/linweiuaf/ldXyCd/commit/595ffa41590200340f12a2a79b1ba81d028a6e4d)
 - [滑动窗口限流源码 完整源码滑动窗口限流算法](https://github.com/linweiuaf/ldXyCd/commit/9d7b4f7058fdfdb0bb482ed0cca23bba43218bc2)
 - [开发者实战开源仓库 源码资源附带集成配置手册](https://github.com/linweiuaf/ldXyCd/commit/2cf4b2101f300ffc436ceca485240495e7297c3c)
+- [图片二维码解析 Demo 完整源码识别解析图片二维码内容](https://github.com/linweiuaf/ldXyCd/commit/1c8ba04ea4ff2b06b14741fe79fdfe7bfa4491ed)
