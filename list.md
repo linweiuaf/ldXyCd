@@ -158,3 +158,4 @@
 - [BGP路由劫持，公网路由安全风险与检测](https://github.com/linweiuaf/ldXyCd/commit/a1ece870c6a370b69f8b5f8f8abc29a9fa359b2a)
 - [postgresql表填充因子批量修改，批量调整数据表fillfactor参数](https://github.com/linweiuaf/ldXyCd/commit/276ba3b7d91d1e316f3dc1ed4c07897de9e1ec07)
 - [基准测试Benchmark，测试环境不统一对比无效](https://github.com/linweiuaf/ldXyCd/commit/eb51da1bf6fea0f25a930ce612e7a25b536dd763)
+- [政策暖风持续吹拂，市场反应却十分冷淡](https://github.com/linweiuaf/ldXyCd/commit/990e13b6abc5019625e6a3c026d615df094ec567)
