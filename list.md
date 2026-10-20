@@ -148,3 +148,4 @@
 - [高速收费标准调整节假日免费通行规则详解](https://github.com/linweiuaf/ldXyCd/commit/25acf686b0cf7c2552a0dab19b140ed5b7583e0c)
 - [GitHub 开源笔记记录不同版本之间迁移坑](https://github.com/linweiuaf/ldXyCd/commit/d11175cfdfc95929d529be54ac7465797356424f)
 - [git二进制文件变更检测，识别提交内二进制文件变更记录](https://github.com/linweiuaf/ldXyCd/commit/5cc57208182d578af55b01926cbea386b8a0e4cd)
+- [GitHub 缓存开源参考代码库 实战 Demo 案例调试配置手册](https://github.com/linweiuaf/ldXyCd/commit/4d8025dfc682277e16ecf67200e206852ae26ec3)
