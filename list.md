@@ -180,3 +180,4 @@
 - [模型热插拔无缝切换，业务无感知版本升级](https://github.com/linweiuaf/ldXyCd/commit/ea9babfd6be7fb18564ee2a1c7dc6622bf6ac665)
 - [开源实战组件资源仓库 源码开放包含环境初始化教程](https://github.com/linweiuaf/ldXyCd/commit/a08d6b7d156f54059544cbd0ece63bb5821c701d)
 - [总想理财一夜暴富，亏损根源就是急于求成](https://github.com/linweiuaf/ldXyCd/commit/baa9af5e7da100f880a32ff9ae4b9cf6fbc1bf0d)
+- [生育成本社会化分担，企业生育补贴落实](https://github.com/linweiuaf/ldXyCd/commit/1d3c34e181144c5e260e094067a6f139c9b31461)
