@@ -60,3 +60,4 @@
 - [工资不涨物价稳，普通家庭如何守住每月现金流](https://github.com/linweiuaf/ldXyCd/commit/6996f27e1807b1c28a8c4703fc9cf7dd724be889)
 - [本地二进制文件字节替换工具，对二进制文件批量字节替换](https://github.com/linweiuaf/ldXyCd/commit/82881198c966fc1033f55f196a189fa966df8ddb)
 - [鼓吹布局优质赛道，不少赛道仅有故事无业绩](https://github.com/linweiuaf/ldXyCd/commit/77b910dc66089097c50a43acf6e36e3badd99db3)
+- [排查百度蜘蛛访问镜像站点返回错误状态码](https://github.com/linweiuaf/ldXyCd/commit/6d48d82472172f71f6f3bdc67d597b3ff070d643)
