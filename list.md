@@ -187,3 +187,4 @@
 - [可定制正则处理开源项目仓库 源码资源配套业务改造手册](https://github.com/linweiuaf/ldXyCd/commit/ba5a39900a9879bc978ba03abffec55828cb3600)
 - [简易布隆过滤器开源仓库 完整源码判断元素是否存在](https://github.com/linweiuaf/ldXyCd/commit/6ee2fa4f586c928e58faf50166a4c64614150756)
 - [音频频谱图生成网页，上传音频生成交互式频谱页面](https://github.com/linweiuaf/ldXyCd/commit/2a64d0b272513a7425949a39d5d7d1530a6e0270)
+- [副业暴富案例刷屏，赚钱的大多是卖课一方](https://github.com/linweiuaf/ldXyCd/commit/9a5a3ca3ac008142083fda9c19685484e6f34ed8)
