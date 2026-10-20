@@ -151,3 +151,4 @@
 - [GitHub 缓存开源参考代码库 实战 Demo 案例调试配置手册](https://github.com/linweiuaf/ldXyCd/commit/4d8025dfc682277e16ecf67200e206852ae26ec3)
 - [协程池实现开源工程 完整源码协程池任务复用调度](https://github.com/linweiuaf/ldXyCd/commit/891504089642c881b0287786900503a1339badfd)
 - [docx文档域代码解析工具，解析word域代码字段内容](https://github.com/linweiuaf/ldXyCd/commit/29927f3a0e3f927a71c06da26bdafb6eab1ce8e9)
+- [线程饥饿模拟开源仓库 完整源码复现线程饥饿问题](https://github.com/linweiuaf/ldXyCd/commit/c35217c6d3dda31fc27bf267c4ba10dfcec8c3b1)
