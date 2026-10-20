@@ -92,3 +92,4 @@
 - [AI辅助代码审计，识别AI生成代码隐藏安全漏洞](https://github.com/linweiuaf/ldXyCd/commit/b819f5a4900f51c6697fd40b7f47c47b7a76528e)
 - [微调私有数据集泄露，数据污染向外扩散风险](https://github.com/linweiuaf/ldXyCd/commit/fa5813365cc1b5efadc5927cf6cf357192f2ec56)
 - [云原生安全左移，CI/CD全链路安全检测实践](https://github.com/linweiuaf/ldXyCd/commit/d876f32ebd50f35b535fc69edc77c725d5384e62)
+- [内网upnp端口映射管理，增删查看路由器upnp端口映射](https://github.com/linweiuaf/ldXyCd/commit/4e32a2f4d0aba53e08f7806eab3e203f04377b2b)
