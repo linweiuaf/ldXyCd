@@ -6,3 +6,4 @@
 - [git历史大blob查找导出，扫描历史找出体积超大blob对象](https://github.com/linweiuaf/ldXyCd/commit/ed577319b58d7291f2ef080dea9edb714176e6f6)
 - [GitHub仓库批量生成Release变更日志](https://github.com/linweiuaf/ldXyCd/commit/41e63a7818fd37b5849ace5bc5015cb519f9b584)
 - [乡村青年婚恋困境，人口外流带来婚嫁难题](https://github.com/linweiuaf/ldXyCd/commit/1a217b3e9ef4daf58921d5984515d20a40469451)
+- [镜像站点百度有抓取快照但是不参与排名对策](https://github.com/linweiuaf/ldXyCd/commit/2dc0872f88291426d12c0520a733406e268d8acc)
