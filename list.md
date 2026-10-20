@@ -197,3 +197,4 @@
 - [北交所新股发行节奏提速专精特新企业资本市场融资渠道拓宽](https://github.com/linweiuaf/ldXyCd/commit/edee349841d367e0aa754ed3a952a1cc4c339a3e)
 - [乡村短视频带货虚假助农整治](https://github.com/linweiuaf/ldXyCd/commit/fd4d6aece95ba563efd26010d5c6ae364eb16f1e)
 - [dns caa记录批量查询，批量查询域名caa安全解析记录](https://github.com/linweiuaf/ldXyCd/commit/551dbf4401732c691b3970ca3abc7a1ec65bf75d)
+- [合并队列Merge‑Queue，大量任务排队堆积](https://github.com/linweiuaf/ldXyCd/commit/ef64a6067b3dcd9aac71b603ef1fb3558e1655d5)
