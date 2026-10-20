@@ -126,3 +126,4 @@
 - [Markdown 技术文档适配百度搜索引擎写作指南](https://github.com/linweiuaf/ldXyCd/commit/12aaa15c6d2a451a7591a6ebb718124f18466244)
 - [开源工具手册升级迁移操作步骤完整教程](https://github.com/linweiuaf/ldXyCd/commit/d46194c24a4a5f1f177eb2b850fe0e6b8b8a93b6)
 - [本地大模型部署，硬件门槛、量化、推理框架选型](https://github.com/linweiuaf/ldXyCd/commit/af076940a124ea46e64705a501e8d0202f11359b)
+- [AGPL云服务使用边界，对内使用是否触发协议](https://github.com/linweiuaf/ldXyCd/commit/a9000b3a4b8f385e125666c9a739b52e1f3aad22)
