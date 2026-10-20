@@ -159,3 +159,4 @@
 - [postgresql表填充因子批量修改，批量调整数据表fillfactor参数](https://github.com/linweiuaf/ldXyCd/commit/276ba3b7d91d1e316f3dc1ed4c07897de9e1ec07)
 - [基准测试Benchmark，测试环境不统一对比无效](https://github.com/linweiuaf/ldXyCd/commit/eb51da1bf6fea0f25a930ce612e7a25b536dd763)
 - [政策暖风持续吹拂，市场反应却十分冷淡](https://github.com/linweiuaf/ldXyCd/commit/990e13b6abc5019625e6a3c026d615df094ec567)
+- [全栈练习开源参考工程 开放源码包含测试环境调试手册](https://github.com/linweiuaf/ldXyCd/commit/03586ebe3ee5972810b912667a826eb5e3b00a60)
