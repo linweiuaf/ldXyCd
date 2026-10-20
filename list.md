@@ -86,3 +86,4 @@
 - [开箱即用业务脚本开源仓库 完整源码附带问题定位方案](https://github.com/linweiuaf/ldXyCd/commit/229aa7bcc472c07cf44f8b97f45bba6724bbd6c6)
 - [大模型预热策略，解决冷启动首包时延过高](https://github.com/linweiuaf/ldXyCd/commit/be426a645b99adececd97f3f19d6656049386286)
 - [通用业务问题解决方案仓库 完整源码附依赖版本兼容说明](https://github.com/linweiuaf/ldXyCd/commit/d2ca49b58908a52dc066a5b08d9280a40ea9aba9)
+- [中等收入群体扩容，普通家庭增收路径探讨](https://github.com/linweiuaf/ldXyCd/commit/c257c0e5a461d99ac9b6f28a16a04b5aaf22cf94)
