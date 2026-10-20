@@ -46,3 +46,4 @@
 - [中医药推广普及，普通百姓中医药就医便利性](https://github.com/linweiuaf/ldXyCd/commit/410fa56d49aea47aff424ab61ec8d1249065ffd8)
 - [青年就业压力，是转型期必须面对的现实课题](https://github.com/linweiuaf/ldXyCd/commit/2590ec11106ce429c80035f6181fdfd7d1ab6809)
 - [算力项目疯狂上马，过剩危机已经潜伏](https://github.com/linweiuaf/ldXyCd/commit/e88b1a8eb6d60e047a5200bae8e4d8f9d21990c2)
+- [复杂规则随机密码生成 Demo 完整源码大小写符号数字组合生成](https://github.com/linweiuaf/ldXyCd/commit/3dc9424f84792f51299c99cdc339fdb957a88f64)
