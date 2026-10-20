@@ -145,3 +145,4 @@
 - [生猪产能调减逐步落地猪价上行周期什么时候真正开启](https://github.com/linweiuaf/ldXyCd/commit/654a074491000daca8a4ebeaa1defae68baacd1c)
 - [预制菜行业扩张，食品安全和行业标准化建设滞后](https://github.com/linweiuaf/ldXyCd/commit/ee124d355210830f013f825f7815522dd7e71eea)
 - [户外徒步登山事故高发风险分析](https://github.com/linweiuaf/ldXyCd/commit/085430557511af3c4a6d978b79fa04614723a6b7)
+- [高速收费标准调整节假日免费通行规则详解](https://github.com/linweiuaf/ldXyCd/commit/25acf686b0cf7c2552a0dab19b140ed5b7583e0c)
