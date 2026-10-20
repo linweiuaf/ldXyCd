@@ -129,3 +129,4 @@
 - [AGPL云服务使用边界，对内使用是否触发协议](https://github.com/linweiuaf/ldXyCd/commit/a9000b3a4b8f385e125666c9a739b52e1f3aad22)
 - [股市涨了指数，大量个股却持续下跌](https://github.com/linweiuaf/ldXyCd/commit/18fb68f78006a1f0444fb0fdc37b48d9443a2fe7)
 - [既有住宅加装电梯财政退坡，运维资金难题](https://github.com/linweiuaf/ldXyCd/commit/8912155594b2f49f5af9360860168fe3c4220ef2)
+- [Agent细粒度文件沙箱，只读读写权限动态切换](https://github.com/linweiuaf/ldXyCd/commit/35e8d5908efdf6ae0a57085e1c74efaef4392fcd)
