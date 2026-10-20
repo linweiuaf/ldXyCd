@@ -141,3 +141,4 @@
 - [图片二维码解析 Demo 完整源码识别解析图片二维码内容](https://github.com/linweiuaf/ldXyCd/commit/1c8ba04ea4ff2b06b14741fe79fdfe7bfa4491ed)
 - [开源项目测试样本Flaky，偶现失败难以复现](https://github.com/linweiuaf/ldXyCd/commit/b7b0d6fb4b6a35ef73ce621bb35c9aa5237c7ede)
 - [国债逆回购怎么操作震荡期短期闲钱理财方式](https://github.com/linweiuaf/ldXyCd/commit/aa65112105690799e84e1b26683e40c0e5591626)
+- [开源密码工具，加密算法实现是否经过审计](https://github.com/linweiuaf/ldXyCd/commit/76824940abbc4a5c499c0f2be9cc80e0b1d81011)
