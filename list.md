@@ -85,3 +85,4 @@
 - [社区商业适老化改造，老年消费场景建设](https://github.com/linweiuaf/ldXyCd/commit/61f2e5fc35433a2da56d260dd5a12ea76ced06cd)
 - [开箱即用业务脚本开源仓库 完整源码附带问题定位方案](https://github.com/linweiuaf/ldXyCd/commit/229aa7bcc472c07cf44f8b97f45bba6724bbd6c6)
 - [大模型预热策略，解决冷启动首包时延过高](https://github.com/linweiuaf/ldXyCd/commit/be426a645b99adececd97f3f19d6656049386286)
+- [通用业务问题解决方案仓库 完整源码附依赖版本兼容说明](https://github.com/linweiuaf/ldXyCd/commit/d2ca49b58908a52dc066a5b08d9280a40ea9aba9)
