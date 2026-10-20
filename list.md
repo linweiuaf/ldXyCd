@@ -115,3 +115,4 @@
 - [ass字幕样式提取复用工具，提取ass字幕样式应用到其他字幕](https://github.com/linweiuaf/ldXyCd/commit/a70347f0892834379bd4fb3053cebb8efa22421d)
 - [GitHub仓库Issue批量锁定解锁脚本](https://github.com/linweiuaf/ldXyCd/commit/b26fa2f9d4b6644401c508a04cae785b6328a3e1)
 - [GitHub 优质开源 Demo 项目 可直接运行源码及实操演示样例](https://github.com/linweiuaf/ldXyCd/commit/209052629af3774cd41fa79f9310a51d9f91e37a)
+- [校外培训预收费监管，机构跑路怎么追回学费](https://github.com/linweiuaf/ldXyCd/commit/372ba5dffaa03818cd64c481cdfdd89c24db84a3)
