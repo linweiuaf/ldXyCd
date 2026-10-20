@@ -149,3 +149,4 @@
 - [GitHub 开源笔记记录不同版本之间迁移坑](https://github.com/linweiuaf/ldXyCd/commit/d11175cfdfc95929d529be54ac7465797356424f)
 - [git二进制文件变更检测，识别提交内二进制文件变更记录](https://github.com/linweiuaf/ldXyCd/commit/5cc57208182d578af55b01926cbea386b8a0e4cd)
 - [GitHub 缓存开源参考代码库 实战 Demo 案例调试配置手册](https://github.com/linweiuaf/ldXyCd/commit/4d8025dfc682277e16ecf67200e206852ae26ec3)
+- [协程池实现开源工程 完整源码协程池任务复用调度](https://github.com/linweiuaf/ldXyCd/commit/891504089642c881b0287786900503a1339badfd)
