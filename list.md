@@ -108,3 +108,4 @@
 - [分布式锁续期源码 完整源码看门狗自动续期逻辑](https://github.com/linweiuaf/ldXyCd/commit/321d50da6c67eba7fc39cb2f180abeb8c6b583dd)
 - [大模型多级缓存架构，静态缓存+动态缓存组合](https://github.com/linweiuaf/ldXyCd/commit/bbedf5a72cb7322c7171ae700e40c56b556e1d57)
 - [农村集体经营性建设用地入市土地改革带来乡村经济机遇](https://github.com/linweiuaf/ldXyCd/commit/f59a99290b638963de0e981e02e437276e788319)
+- [音频静音检测标记工具，输出音频所有静音起止时间戳](https://github.com/linweiuaf/ldXyCd/commit/373303eccbed71f5f1079fa979b640280220ab47)
