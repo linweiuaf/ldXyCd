@@ -199,3 +199,4 @@
 - [dns caa记录批量查询，批量查询域名caa安全解析记录](https://github.com/linweiuaf/ldXyCd/commit/551dbf4401732c691b3970ca3abc7a1ec65bf75d)
 - [合并队列Merge‑Queue，大量任务排队堆积](https://github.com/linweiuaf/ldXyCd/commit/ef64a6067b3dcd9aac71b603ef1fb3558e1655d5)
 - [家族办公室数量增长高净值人群资产配置需求呈现新特征](https://github.com/linweiuaf/ldXyCd/commit/742668d0bb597dc3d4a696651f0119027f72eba7)
+- [本地图片png jpg质量批量重压缩，自定义质量参数批量压缩图片](https://github.com/linweiuaf/ldXyCd/commit/90b0815cfac9bafe4fff50af2b7898894d31f185)
