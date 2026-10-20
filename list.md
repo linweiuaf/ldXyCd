@@ -120,3 +120,4 @@
 - [开发者开源代码资源合集 全套源码配套从零部署样例](https://github.com/linweiuaf/ldXyCd/commit/9eed131b36697b7c8341dfc81a80fb54b197ceca)
 - [时间区间交集计算开源工程 完整源码计算多时间段重叠部分](https://github.com/linweiuaf/ldXyCd/commit/8f6f7fb9c199ba9c283e7e6fa6a416b4d58b90d5)
 - [百度抓取诊断工具模拟 Baiduspider 访问页面](https://github.com/linweiuaf/ldXyCd/commit/fcfb6d0e0fc016e31ef53f7bbc0bd57cedd5c11b)
+- [内存泄漏模拟 Demo 开源工程 完整源码模拟内存泄漏复现场景](https://github.com/linweiuaf/ldXyCd/commit/7f0b10168edea8280bf89c0ced6f70a4a89e0680)
