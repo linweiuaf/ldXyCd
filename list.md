@@ -191,3 +191,4 @@
 - [JSON 格式目录树输出开源仓库 完整源码生成 json 目录结构](https://github.com/linweiuaf/ldXyCd/commit/4a02addbbb83cc472ed681541c2f7553313dd47e)
 - [rtsp流检测可用性脚本，批量检测rtsp地址是否可正常打开](https://github.com/linweiuaf/ldXyCd/commit/fd4d583bc9c7daef514c10842dece95a9df40ce8)
 - [进城务工子女义务教育入学，需要准备哪些材料](https://github.com/linweiuaf/ldXyCd/commit/1b793cdad2985ecc502c4e18b139760688b2a5db)
+- [开源实战参考工程分享 完整源码配套参数调优使用手册](https://github.com/linweiuaf/ldXyCd/commit/3483cb62d65e81b1fa68aa66038bc5b9095bb2b1)
