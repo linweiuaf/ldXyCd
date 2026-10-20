@@ -69,3 +69,4 @@
 - [绿色矿山建设，如何平衡生态保护与地方经济发展](https://github.com/linweiuaf/ldXyCd/commit/a37987b31fc3e82043c1d473da4e10cf55a4a964)
 - [BC电池技术崛起光伏电池新路线产业化发展前景](https://github.com/linweiuaf/ldXyCd/commit/0a8edfbebce5fdd76fcc921851855620256de18f)
 - [部分行业内卷，根源在于供给大于真实市场需求](https://github.com/linweiuaf/ldXyCd/commit/80f8ccaab0a2f7532e9864da9d045b797e159e49)
+- [弹性工作制普及，打工人工作生活边界模糊](https://github.com/linweiuaf/ldXyCd/commit/1bda9c9a39cbdc0f7458a984cb39ecc667c44475)
