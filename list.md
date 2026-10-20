@@ -99,3 +99,4 @@
 - [镜像站点百度抓取返回 406 状态码排查处理](https://github.com/linweiuaf/ldXyCd/commit/2ad8a747b56b8feef3bc6c9a4aa59a57c56b94e4)
 - [随机数组洗牌算法源码 完整源码数组随机打乱洗牌实现](https://github.com/linweiuaf/ldXyCd/commit/6fe2370c9c6ef76f6b6d3b481c528438e44c3d54)
 - [居家适老化改造补贴扩面老旧住宅改造](https://github.com/linweiuaf/ldXyCd/commit/1436f7b7cd024fc2f4dd9311168661578c0dc071)
+- [轻量模块化开源源码仓库 完整实现附带从零搭建部署](https://github.com/linweiuaf/ldXyCd/commit/4283f3cc2155c3bb31940ea86053844d42ed0aa3)
