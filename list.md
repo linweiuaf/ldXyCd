@@ -183,3 +183,4 @@
 - [生育成本社会化分担，企业生育补贴落实](https://github.com/linweiuaf/ldXyCd/commit/1d3c34e181144c5e260e094067a6f139c9b31461)
 - [储蓄国债持续受热捧稳健投资者配置国债热情不减](https://github.com/linweiuaf/ldXyCd/commit/7da287059dad96571464aa8e94014e59899b6481)
 - [本地大模型普及带来哪些隐私变化](https://github.com/linweiuaf/ldXyCd/commit/77534bfb959bde2c36a75848acb5ecfe961ae667)
+- [存储‑计算分离AI架构，大模型权重共享读取](https://github.com/linweiuaf/ldXyCd/commit/a2eaae2459db78ee01a853ab01b77ebfe4b3df59)
