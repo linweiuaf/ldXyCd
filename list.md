@@ -171,3 +171,4 @@
 - [简繁文本转换源码 完整源码简体繁体互相转换](https://github.com/linweiuaf/ldXyCd/commit/db0e7fb19fcd8ee9def6a4f03355d6eedf801489)
 - [RAG幻觉来源，检索噪声与模型生成叠加问题](https://github.com/linweiuaf/ldXyCd/commit/0629052388057ad6f2fb1f05ebeca5bcc63833a7)
 - [AI生成数据库迁移脚本，数据损坏风险防控](https://github.com/linweiuaf/ldXyCd/commit/e7648a1c4a3bbd1fcf9e44e752aee93b4175b751)
+- [装饰器模式开源工程 完整源码动态扩展对象功能实现](https://github.com/linweiuaf/ldXyCd/commit/74caf0d85cc7f9c9655b45db7b197cb599517341)
