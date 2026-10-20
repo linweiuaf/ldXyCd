@@ -30,3 +30,4 @@
 - [CSV脏数据清洗脚本，空值异常字符处理输出干净数据](https://github.com/linweiuaf/ldXyCd/commit/ed465ef3ad22c9d190282250c2045ecf72aa9db2)
 - [地震AI预警模型，小样本灾害数据训练局限性](https://github.com/linweiuaf/ldXyCd/commit/12490a4d51023784e341a55dda2e0a9fb6f3af66)
 - [地方化债落地，普通人的感受不会立竿见影](https://github.com/linweiuaf/ldXyCd/commit/c35942210adce1ce31275dad88a6e31be9067ff8)
+- [极端高温常态化，城市公共防暑服务升级](https://github.com/linweiuaf/ldXyCd/commit/523974c2d0e13ebadbf0d456ab2255a61223f0d7)
