@@ -83,3 +83,4 @@
 - [eBPF开源项目热度上涨，内核版本兼容性大坑](https://github.com/linweiuaf/ldXyCd/commit/baa7405a34b07f95a64eecefd179302d3339c6d4)
 - [符号链接权限批量修复，批量修改软链接指向文件权限](https://github.com/linweiuaf/ldXyCd/commit/7ee89949179ca75396bdf938c51319593aad1bab)
 - [社区商业适老化改造，老年消费场景建设](https://github.com/linweiuaf/ldXyCd/commit/61f2e5fc35433a2da56d260dd5a12ea76ced06cd)
+- [开箱即用业务脚本开源仓库 完整源码附带问题定位方案](https://github.com/linweiuaf/ldXyCd/commit/229aa7bcc472c07cf44f8b97f45bba6724bbd6c6)
