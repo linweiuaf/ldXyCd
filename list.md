@@ -34,3 +34,4 @@
 - [开源AI商业合规，SaaS调用开源模型授权争议](https://github.com/linweiuaf/ldXyCd/commit/e02cb736db3eeea3a3f190b53e9792c28cd222a9)
 - [上市公司商誉减值频发并购遗留风险持续释放](https://github.com/linweiuaf/ldXyCd/commit/993aeca3adab96ffe67ff9f89056260cdcd75493)
 - [GitHub 仓库文档更新后清除旧缓存的办法](https://github.com/linweiuaf/ldXyCd/commit/72053bd0d561b6b82e0988d84c699bbf09aeca68)
+- [github组织团队仓库权限批量回收，批量移除团队仓库访问权限](https://github.com/linweiuaf/ldXyCd/commit/cddfa268547dd22b38975c08fa292594c1a4a34e)
